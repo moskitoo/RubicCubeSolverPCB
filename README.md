@@ -1,3 +1,2 @@
 # RubicCubeSolverPCB
 
-test test
