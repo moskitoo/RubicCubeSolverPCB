@@ -1,6 +1,6 @@
 # RubicCubeSolverPCB
 
-![pcb_finished]("https://github.com/moskitoo/RubicCubeSolverPCB/blob/main/pictures/pcv_finished.jpg")
+
 <img src="https://github.com/moskitoo/RubicCubeSolverPCB/blob/main/pictures/pcv_finished.jpg" width="500" height="600">
 
 
